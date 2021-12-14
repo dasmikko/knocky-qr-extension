@@ -12,3 +12,7 @@ Extension is now installed
 
 ## Usage
 Simply login to Knockout.chat, and click the small icon for the extension, and scan the qr code with the Knocky V2 app.
+
+## Firefox
+There is a Firefox port [here](https://github.com/UnixNight/knocky-qr-extension).
+Many thanks to UnixNight!
